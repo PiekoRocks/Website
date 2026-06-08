@@ -453,7 +453,7 @@ function ContactPage() {
 }
 
 function ResumePage() {
-  const resumePath = "/documents/Johnson-Resume.pdf";
+  const resumePath = "documents/Johnson-Resume.pdf";
   return el(
     "section",
     { className: "section-card resume-card" },
